@@ -1,8 +1,8 @@
 # How-to-Contribute
-```
-This repository will help you to learn about How to Contribute by adding your name in the Contributors.md file.
 
-```
+      This repository will help you to learn about How to Contribute by adding your name in the Contributors.md file.
+
+
 ## Follow these steps
    1. [Fork this repository](#1-fork-this-repository)
    2. [Clone the repository](#2-clone-the-repository)
