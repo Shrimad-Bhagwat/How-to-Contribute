@@ -1,4 +1,4 @@
-# How-to-Contribute
+
 ![How to Contribute](https://github.com/Shrimad-Bhagwat/How-to-Contribute/blob/main/assets/Readme/How%20to%20Contribute%20to%20Github.png)
 ### This repository will help you to learn about How to Contribute by adding your name in the Contributors.md file.
 
