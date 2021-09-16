@@ -1,6 +1,5 @@
 # How-to-Contribute
-
-      This repository will help you to learn about How to Contribute by adding your name in the Contributors.md file.
+### This repository will help you to learn about How to Contribute by adding your name in the Contributors.md file.
 
 
 ## Follow these steps
