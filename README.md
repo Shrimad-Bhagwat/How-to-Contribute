@@ -4,6 +4,16 @@ This repository will help you to learn about How to Contribute by adding your na
 
 ```
 ## Follow these steps
+   1. [Fork this repository](#1-fork-this-repository)
+   2. [Clone the repository](#2-clone-the-repository)
+   3. [Create a branch](#3-create-a-branch)
+   4. [Make necessary changes and commit those changes](#4-make-necessary-changes-and-commit-those-changes)
+   5. [Push changes to GitHub](#5-push-changes-to-github)
+   6. [Submit your changes for review](#6-submit-your-changes-for-review)
+
+---
+
+
 ## 1. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
