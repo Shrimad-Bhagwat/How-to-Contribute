@@ -1,11 +1,15 @@
 # How-to-Contribute
+```
+This repository will help you to learn about How to Contribute by adding your name in the Contributors.md file.
 
-## Fork this repository
+```
+## Follow these steps
+## 1. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## 2. Clone the repository
 
 <img align="right" width="300" src="https://github.com/Shrimad-Bhagwat/How-to-Contribute/blob/main/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -29,7 +33,7 @@ https://github.com/this-is-you/How-to-Contribute.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
+## 3. Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -51,7 +55,7 @@ git checkout -b add-shrimad-bhagwat
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-## Make necessary changes and commit those changes
+## 4. Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
@@ -73,7 +77,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 replacing `<your-name>` with your name.
 
-## Push changes to GitHub
+## 5. Push changes to GitHub
 
 Push your changes using the command `git push`:
 
@@ -83,7 +87,7 @@ git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-## Submit your changes for review
+## 6. Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
